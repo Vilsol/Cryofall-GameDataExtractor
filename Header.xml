@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+  <game>CryoFall</game>
+  <id>GameDataExtractor</id>
+  <title>GameDataExtractor</title>
+  <author>Vilsol</author>
+  <description>Extract information from the game.</description>
+  <version>0.0.1</version>
+  <updated>01.01.2018</updated>
+  <modtype>2</modtype>
+</root>
